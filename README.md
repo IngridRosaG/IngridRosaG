@@ -26,3 +26,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
   <a href="https://www.linkedin.com/in/ingrid-g-rosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
 </div>
+
+    
+## E aqui você pode ver um pouquinho do que faço:<a href="https://ibb.co/Zd30zPp"><img src="https://i.ibb.co/VVdsYZc/dash-vic.png" alt="dash-vic" border="0" /></a>
+
+<a href="https://ibb.co/pwLDs6W"><img src="https://i.ibb.co/XLCBdfy/dash-ipa.png" alt="dash-ipa" border="0" /></a>
+
+<a href="https://ibb.co/YQSvkf3"><img src="https://i.ibb.co/tK6ysY4/dash-agua.png" alt="dash-agua" border="0" /></a>
+
+    
+    
