@@ -24,15 +24,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 <div>
   <a href = "mailto:ingridgomesrosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ingrid-g-rosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- 
 </div>
 
     
-## E aqui você pode ver um pouquinho do que faço:<a href="https://ibb.co/Zd30zPp"><img src="https://i.ibb.co/VVdsYZc/dash-vic.png" alt="dash-vic" border="0" /></a>
-
-<a href="https://ibb.co/pwLDs6W"><img src="https://i.ibb.co/XLCBdfy/dash-ipa.png" alt="dash-ipa" border="0" /></a>
-
-<a href="https://ibb.co/YQSvkf3"><img src="https://i.ibb.co/tK6ysY4/dash-agua.png" alt="dash-agua" border="0" /></a>
-
+##
     
     
+    
+## Aqui você pode ver um pouquinho do que faço:
+    
+<a href="https://ibb.co/Zd30zPp"><img src="https://i.ibb.co/VVdsYZc/dash-vic.png" alt="dash-vic" border="0" /></a>
+<a href="https://ibb.co/WK2BpK8"><img src="https://i.ibb.co/3hCSYh6/Untitled1.png" alt="Untitled1" border="0" /></a>
+<a href="https://ibb.co/pWgMzdq"><img src="https://i.ibb.co/cbPZFQq/Untitled2.png" alt="Untitled2" border="0" /></a>
+<a href="https://ibb.co/zhvssjk"><img src="https://i.ibb.co/N6BxxQ4/dash-ipa.png" alt="dash-ipa" border="0" /></a>
+<a href="https://ibb.co/tpx3jqP"><img src="https://i.ibb.co/GQtFYW3/dash-agua.png" alt="dash-agua" border="0" /></a>
